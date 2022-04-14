@@ -1,5 +1,14 @@
 # @compiled/webpack-loader
 
+## 0.8.8
+
+### Patch Changes
+
+- ad4d257: Update TypeScript and Flow types to support function calls and resolve incorrect typing
+- Updated dependencies [ad4d257]
+  - @compiled/css@0.8.3
+  - @compiled/react@0.10.5
+
 ## 0.8.7
 
 ### Patch Changes
